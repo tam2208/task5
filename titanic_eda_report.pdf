@@ -1,0 +1,27 @@
+Titanic Dataset - Exploratory Data Analysis (EDA)
+
+Objective:
+Explore the Titanic dataset to understand relationships between variables and identify patterns that may affect survival.
+
+Tools Used:
+- Python
+- Pandas, Matplotlib, Seaborn
+
+Key Findings:
+- Age distribution shows a large number of passengers between ages 20–40.
+- Women and children had higher survival rates.
+- First-class passengers survived more often than those in lower classes.
+- Positive correlation found between fare and survival.
+- Pairplot and heatmap show multicollinearity between Pclass, Fare, and Survival.
+
+Visualizations:
+1. Age Distribution Histogram
+2. Survival Count Plot
+3. Boxplot: Age vs Pclass
+4. Correlation Heatmap
+5. Pairplot: Age, Fare, Pclass, Survived
+
+Conclusion:
+Passenger class, gender, and age were important factors in determining survival. The analysis provides clear evidence of social and economic patterns influencing survival outcomes.
+
+Prepared by: [Your Name]
